@@ -25,12 +25,6 @@ b、Replit首页点击右上角蓝色加号New Repl，搜索模版：Blank Repl�
 |Xray1.4.3版支持苹果oneclick免费客户端|ver|任意字符|自动安装最新版Xray|
 |更新中……|更新中……|更新中……|更新中……|
 
-
 ----------------------------------------------------------------------------------------------------
-![682aec9151f00ed0cba7e8c8026ff06](https://user-images.githubusercontent.com/121604513/229277596-6d6bfcd4-2f91-42d3-8ebd-e27cbe9619a1.png)
-![7682b5d1e8862ca8d1e119122e02c73](https://user-images.githubusercontent.com/121604513/229277602-f6311191-1044-4612-bdad-d45230462a31.png)
-![799d196f38533f309f049e8bb480533](https://user-images.githubusercontent.com/121604513/229277603-c17c8bef-d85c-4bc3-91d9-e73949913ede.png)
-
-
 
 ### 参考项目：[hiifeng](https://github.com/hiifeng/V2ray-for-Replit)
